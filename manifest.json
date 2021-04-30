@@ -1,6 +1,6 @@
 {
-  "name": "Getting started Example",
-  "description": "Build an Extension!",
+  "name": "Better Twitter",
+  "description": "BTTV emotes on your timeline",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
